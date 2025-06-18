@@ -1,5 +1,5 @@
 import art
-print(art)
+print(art.art)
 print("Welcome to prime number checker!")
 while True:
     number_to_be_checked=int(input("Please Enter the number you want to check: "))
